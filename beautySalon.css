@@ -1,0 +1,30 @@
+#logo
+{
+    width: 5em;
+    height: 5em;
+}
+.text
+{
+    color: palevioletred;
+}
+.first-letter
+{
+    font-family: cursive;
+    font-weight: bold;
+}
+#navig1,#navig2,#navig3
+{
+   color:  palevioletred;
+}
+#navig4
+{
+    text-decoration: none;
+    background-color: palevioletred;
+    color: white;
+    border-radius: 2em;
+    border: 1px solid palevioletred;
+}
+#a
+{
+    text-decoration: none;
+}

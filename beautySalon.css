@@ -72,7 +72,7 @@
     justify-self: end;
     margin-right: 2em;
     align-self: center;
-    position: absolute;
+    position: fixed;
     display: grid;
 }
 .icon
@@ -99,4 +99,16 @@
     box-shadow: 50px 50px black,60px 60px #ffbad1;
     border: solid 1px #ffbad1;
 }
-
+.book-appointment-parent
+{
+    width: 18em;
+    background-color: black;
+    margin-top: 5em;
+    box-shadow: -5px 6px 7px 4px pink;
+}
+#book-appointment
+{
+    font-size: 22px;
+    text-decoration: none;
+    color: deeppink;
+}

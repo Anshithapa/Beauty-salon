@@ -32,3 +32,49 @@
 {
     text-decoration: none;
 }
+
+.proPhoto-parent
+{
+    display: grid;
+    justify-content: center;
+}
+#pro-photo1
+{
+    background-image: url(Images/pro-pic-1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 61em;
+    height: 40em;
+    box-shadow: -50px 50px black,-60px 60px #ffbad1;
+    border: solid 1px #ffbad1;
+}
+#pro-head
+{
+    position: absolute;
+    top: 9em;
+    left: 63em;
+    background-color: black;
+    border: solid 2em #ffbad1; 
+}
+.pro-h1
+{
+    font-size:  4.5rem;
+    color: #ba1a4f;
+    padding-left: 20px;
+    padding-right: 1em;
+}
+#socialmedia-parent
+{
+     display: grid;
+}
+#social-media
+{
+    justify-self: end;
+    margin-right: 2em;
+    align-self: center;
+    position: absolute;
+    display: grid;
+}
+.icon
+{
+    color: #cc085d;

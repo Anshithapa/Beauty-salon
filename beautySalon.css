@@ -1,3 +1,8 @@
+#header
+{
+    position: sticky;
+    display: 1;
+}
 #logo
 {
     width: 5em;
@@ -19,10 +24,9 @@
 #navig4
 {
     text-decoration: none;
-    background-color: palevioletred;
-    color: white;
-    border-radius: 2em;
-    border: 1px solid palevioletred;
+    color: palevioletred;
+    border: none;
+    background: transparent;
 }
 #a
 {

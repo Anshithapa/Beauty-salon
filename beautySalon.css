@@ -78,3 +78,25 @@
 .icon
 {
     color: #cc085d;
+}
+
+#patch1
+{
+    width: 20em;
+    height: 15em;
+}
+#about-para
+{
+    width: 20em;
+}
+#pro-photo2
+{
+    background-image: url(Images/pro-pic2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 25em;
+    height: 31em;
+    box-shadow: 50px 50px black,60px 60px #ffbad1;
+    border: solid 1px #ffbad1;
+}
+

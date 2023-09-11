@@ -127,7 +127,7 @@
 }
 #service
 {
-    width: 85%;
+    width: 100%;
     background-color: black;
     height: 25em;
     padding-left: 5em;
@@ -187,7 +187,7 @@
     background-color: transparent;
     width: 100%;
     height: 35em;
-    margin-top: 5em;
+    margin-top: 8em;
 }
 #treatment-img
 {
@@ -244,4 +244,21 @@
 { 
     margin-left: 13%;
     color: deeppink;
+}
+
+#contact
+{
+    margin-top: 479px;
+    background-color: black;
+    height: 40em;
+}
+#btn-parent
+{
+    display: grid;
+}
+.button
+{
+    background: transparent;
+    color: white;
+    justify-self: end;
 }

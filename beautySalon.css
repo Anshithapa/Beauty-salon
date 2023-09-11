@@ -82,8 +82,8 @@
 
 #patch1
 {
-    width: 20em;
-    height: 15em;
+    width: 15em;
+    height: 13em;
 }
 #about-para
 {
@@ -103,7 +103,7 @@
 {
     width: 18em;
     background-color: black;
-    margin-top: 5em;
+    margin-top: 3em;
     box-shadow: -5px 6px 7px 4px pink;
 }
 #book-appointment

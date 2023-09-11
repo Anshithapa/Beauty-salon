@@ -80,7 +80,7 @@
     color: #cc085d;
 }
 
-#patch1
+#sub-img1
 {
     width: 15em;
     height: 13em;
@@ -111,4 +111,16 @@
     font-size: 22px;
     text-decoration: none;
     color: deeppink;
+}
+
+
+#sub-img2
+{
+    width: 19em;
+    height: 14em;
+}
+#sub-img3
+{
+    width: 11em;
+    height: 11em;
 }

@@ -37,6 +37,7 @@
 {
     display: grid;
     justify-content: center;
+    padding-left: 11em
 }
 #pro-photo1
 {
@@ -123,4 +124,61 @@
 {
     width: 11em;
     height: 11em;
+}
+#service
+{
+    width: 85%;
+    background-color: black;
+    height: 25em;
+    padding-left: 5em;
+}
+.more-info-parent
+{
+    width: 11em;
+    background-color: deeppink;
+    box-shadow: -5px 7px 10px -3px pink;
+    border: solid 1px black;
+    border-radius: 30px;
+}
+#more-info
+{
+    font-size: 22px;
+    text-decoration: none;
+    color: black;
+}
+.text-color
+{
+    color: deeppink;
+}
+
+#service-child
+{
+    margin: 4em;
+    width: 75%;
+    background-color: #ffbad1;
+    height: 21em;
+}
+.serv-child-innerRow
+{
+    height: 100%
+}
+#service-img
+{
+    
+    width: 75%;
+    height: 75%;
+    margin: 3em;
+    border: solid 8px;
+}
+#service-1
+{
+    
+    width: 75%;
+    height: 75%;
+    margin: 3em;
+    margin-top: 4em; 
+}
+#line
+{
+   border-top: 3px solid #343a40;
 }

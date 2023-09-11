@@ -153,7 +153,7 @@
 
 #service-child
 {
-    margin: 4em;
+    margin: 7%;
     width: 75%;
     background-color: #ffbad1;
     height: 21em;
@@ -167,7 +167,7 @@
     
     width: 75%;
     height: 75%;
-    margin: 3em;
+    margin: 18%;
     border: solid 8px;
 }
 #service-1
@@ -175,10 +175,73 @@
     
     width: 75%;
     height: 75%;
-    margin: 3em;
-    margin-top: 4em; 
+    margin: 12%;
+    margin-top: 19%; 
 }
 #line
 {
    border-top: 3px solid #343a40;
+}
+#treatment
+{
+    background-color: transparent;
+    width: 100%;
+    height: 35em;
+    margin-top: 5em;
+}
+#treatment-img
+{
+    background-image: url(Images/Salon.jpg);
+    width: 100%;
+    height: 45em;
+    background-repeat: no-repeat;
+    background-size: cover
+}
+#treatment-offer
+{
+    margin-left: 35%;
+    margin-top: -19%;
+    border-radius: 17em 17em 0 0;
+    border: solid 3px deeppink;
+    width: 33%;
+    height: 34em;
+    background-color: white;
+}
+#use-code1
+{
+    font-family:  Brush Script MT;
+    font-size: 58px;
+}
+#use-code2
+{
+    font-size: 26px;
+    margin-left: 17%;
+}
+#use-code3
+{
+    margin-left: 16%;
+}
+#use-code4
+{
+    margin-top: 28%;
+    margin-left: 15%;
+    font-size: 19px;
+}
+#use-code5
+{
+    margin-left: 26%;
+    margin-top: 1%;
+    width: 50%;
+    background-color: black;
+    border-radius: 2em;
+    border: solid 1px deeppink;
+    box-shadow: -4px 4px 4px pink;
+    font-size: 43px;
+    font-family: Brush Script MT;
+    padding-top: 0px;
+}
+.use-code
+{ 
+    margin-left: 13%;
+    color: deeppink;
 }
